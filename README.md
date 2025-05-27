@@ -24,18 +24,18 @@ Getting Started :
 Installation : 
 1.Clone the repository:
 
-git clone https://github.com/NachikethReddy18/react-weather-chart.git
+code : git clone https://github.com/NachikethReddy18/react-weather-chart.git
 
 2.Navigate to the project directory:
 
-cd react-weather-chart
+code : cd react-weather-chart
 
 3.Install dependencies:
 
-npm install
+code : npm install
 
 4.view
-npm start
+code : npm start
 
 Usage : 
 1. Enter the name of a city to fetch and display its current weather data.
