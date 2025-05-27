@@ -23,11 +23,17 @@ Getting Started :
 
 Installation : 
 1.Clone the repository:
+
 git clone https://github.com/NachikethReddy18/react-weather-chart.git
+
 2.Navigate to the project directory:
+
 cd react-weather-chart
+
 3.Install dependencies:
+
 npm install
+
 4.view
 npm start
 
