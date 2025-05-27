@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-weather-chart/static/js/main.df3369ec.js",
+    "main.js": "/react-weather-chart/static/js/main.7bd0cfec.js",
     "index.html": "/react-weather-chart/index.html",
-    "main.df3369ec.js.map": "/react-weather-chart/static/js/main.df3369ec.js.map"
+    "main.7bd0cfec.js.map": "/react-weather-chart/static/js/main.7bd0cfec.js.map"
   },
   "entrypoints": [
-    "static/js/main.df3369ec.js"
+    "static/js/main.7bd0cfec.js"
   ]
 }
